@@ -1,1 +1,1 @@
-# patent_novelty
+# Patent Novelty Interpretations through Natural Language Processing
